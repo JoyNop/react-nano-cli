@@ -1,0 +1,35 @@
+{
+  "name": "@nano/react-nano-cli",
+  "version": "0.0.1",
+  "description": "一键下载 React 模板",
+  "bin": {
+    "react-nano": "./bin/nano.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joynop/react-nano-cli.git"
+  },
+  "keywords": [
+    "react",
+    "react-component",
+    "react-components",
+    "react-cli",
+    "react-nano",
+    "nano",
+    "cli"
+  ],
+  "author": "JoyNop",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/joynop/react-nano-cli/issues"
+  },
+  "homepage": "https://github.com/joynop/react-nano-cli#readme",
+  "dependencies": {
+    "chalk": "^2.3.2",
+    "cli-table": "^0.3.1",
+    "co": "^4.6.0",
+    "co-prompt": "^1.0.0",
+    "commander": "^2.15.1",
+    "ora": "^2.0.0"
+  }
+}
