@@ -1,6 +1,6 @@
 {
   "name": "@nano-art/react-nano-cli",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "一键下载 React 模板",
   "bin": {
     "react-nano": "./bin/nano.js"
